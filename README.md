@@ -111,7 +111,7 @@ On macOS, all you have to do is open the DMG file you got from the checkra1n web
 
 Linux users, due to the vastness of possibilities for the linux community, I cannot cover all of you in this document. I will only be writing out the steps for Debian based distros.
 
-On Ubuntu, open the terminal.
+Okay. Let's open the terminal.
 
 First, run `sudo apt get update && sudo apt-get upgrade` to make sure tat your packages are up to date.
 
