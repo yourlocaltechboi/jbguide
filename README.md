@@ -11,7 +11,7 @@ This document is a guide for how to do it both safely, and without error. If you
 * **_If this is your first time jailbreaking, make sure to follow these instructions precisely to prevent unforeseen issues that could arise_**
 * **_If you jailbreak your phone, you agree that your warranty (if any), will be void, and some repair centers may refuse to service your phone if it is jailbroken (see the section about repairing your phone for more info)_**
 * **_I, Anden Wieseler, cannot be held liable for any issues that arise from jailbreaking any device from the use of this guide, any of the methods mentioned, or any of the software or hardware required. Your device is your responsibility. While I may provide some support, you jailbreak your phone at your own risk, and any fees or legal repurcussions are your responsibility as well._**
-* **_I cannot guarantee that all information contained in this document is without error. Should technical error arise from false information, I cannot and will not be held accountable. By continuing, you accept full responsibility for any errors that may arise_**
+* **_I cannot guarantee that all information contained in this document is without error. Should technical error arise from false information, I cannot and will not be held accountable. By continuing, you accept full responsibility for any errors that may arise. If you see an error in this document that you can fix, feel free to edit this document on GitHub and send in a PR!_**
 
 If you agree to these terms, let's move forward! 
 
