@@ -10,7 +10,8 @@ This document is a guide for how to do it both safely, and without error. If you
 **A few notes before we begin:**
 * **_If this is your first time jailbreaking, make sure to follow these instructions precisely to prevent unforeseen issues that could arise_**
 * **_If you jailbreak your phone, you agree that your warranty (if any), will be void, and some repair centers may refuse to service your phone if it is jailbroken (see the section about repairing your phone for more info)_**
-* **_I, Anden Wieseler, cannot be held liable for any issues that arise from jailbreaking any device from the use of this guide, any of the methods mentioned, or any of the software or hardware required. Your device is your responsibility. While I may provide some support, you jailbreak your phone at your own risk, and any fees or legal action is your responsibility as well._**
+* **_I, Anden Wieseler, cannot be held liable for any issues that arise from jailbreaking any device from the use of this guide, any of the methods mentioned, or any of the software or hardware required. Your device is your responsibility. While I may provide some support, you jailbreak your phone at your own risk, and any fees or legal repurcussions are your responsibility as well._**
+* **_I cannot guarantee that all information contained in this document is without error. Should technical error arise from false information, I cannot and will not be held accountable. By continuing, you accept full responsibility for any errors that may arise_**
 
 If you agree to these terms, let's move forward! 
 
@@ -251,4 +252,4 @@ If this describes your device|try this
 My touchscreen still works, and I can open by jailbreak app|Open the jailbreak app and remove your jailbreak using the steps above before sending your device in for repair
 My touchscreen does NOT work, and/or I cannot open my jailbreak app|You will have to either reset the device via DFU mode in iTunes, or send in the device as-is and risk either a refusal of service or having your device returned wiped and updated to the latest version of iOS (potentially unjailbreakable).
 
-
+**_Note to users under warranty: If you send in your device as-is, and Apple or your Repair Specialist discovers that your device is jailbroken, they might repair it, but you might have to pay out-of-warranty fees, as a jailbreak voids your warranty_**
