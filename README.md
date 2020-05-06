@@ -211,6 +211,14 @@ Jellyfish|Justin Proulx & Ayden Panhuyzen|repo.dynastic.co|$1.99
 Prysm|LaughingQuoll|repo.packix.com|$3.49
 Ultrasound|Ayden Panhuyzen|repo.dynastic.co|$1.99
 
+**To add a source to Cydia:**
+
+1. Open Cydia
+2. Go to the sources page
+3. Hit the edit button
+4. Hit the add button
+5. Enter the URL of the repo that you want to add, and hit "Add Source"
+
 **_Note that tweak compatibility varies from device to device. Especially with iPads._**
 
 ## Section IX: Removing your jailbreak safely
@@ -253,3 +261,17 @@ My touchscreen still works, and I can open my jailbreak app from the home screen
 My touchscreen does NOT work, and/or I cannot open my jailbreak app|You will have to either reset the device via DFU mode in iTunes, or send in the device as-is and risk either a refusal of service or having your device returned wiped and updated to the latest version of iOS (potentially unjailbreakable).
 
 **_Note to users under warranty: If you send in your device as-is, and Apple or your Repair Specialist discovers that your device is jailbroken, they might repair it, but you might have to pay out-of-warranty fees, as a jailbreak voids your warranty_**
+
+## Section XI: Conclusion
+
+If you read all of this, thank you for sticking with me!
+
+If you are jailbroken and need support for your jailbroken device r/jailbreak on Reddit is a great resource.
+
+To learn more about using tweaks to customize the look of your device, check out r/iOSThemes on Reddit as well.
+
+If you found an error in this document, feel free to edit it and send in a PR on GitHub!
+
+Thanks one again!
+
+Anden out.
