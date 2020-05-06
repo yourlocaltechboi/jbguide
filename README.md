@@ -94,7 +94,6 @@ For unc0ver users:
 **_Note: macOS Catalina users: iTunes was removed from macOS Catalina. Just skip this step._**
 
 * Go to https://altstore.io to download and install AltServer on your machine.
-* Go to https://unc0ver.dev and download the latest version of unc0ver. For easy access, save it to your Downloads folder.
 
 ## Section V: Installing your jailbreak tool
 
@@ -123,3 +122,121 @@ Then, add the public key: `sudo apt-key adv --fetch-keys https://assets.checkra.
 Then, run `sudo apt-get update` to refresh your package lists
 
 and Finally, run `sudo apt-get install checkra1n` to install the checkra1n application.
+
+### Section V-b: Installing unc0ver
+
+Unc0ver installation is similar for both macOS and Windows.
+
+1. Install AltServer on your computer using the instructions at https://altstore.io/faq
+2. Once AltStore is installed on your device, leave the device plugged into the computer.
+3. Open Safari on your device, and go to https://unc0ver.dev, and download the latest version. It will automatically put it in your downloads folder.
+4. Open AltStore on your device, and sign in. 
+5. On the "My Apps" page, tap the plus ("+")
+6. Select the unc0ver application file
+7. Wait for unc0ver to install
+
+**_Note: You will have to refresh unc0ver once every 7 days to keep it running. You can do this by connecting your phone to your computer, starting AltServer, opening AltStore on the device, and pressing refresh on the "My Apps" page.
+
+## Section VI: Jailbreaking for the first time :)
+
+YAY! It's almost time to jailbreak your phone for the first time! This is where you really need to focus. Have patience! You can do it!
+
+### Section VI-a: Jailbreaking on checkra1n
+
+To jailbreak using checkra1n:
+
+1. Open the Checkra1n app on your computer
+2. Plug in your device.
+3. Press start
+4. Follow the instructions to place the device in DFU mode
+5. Wait for the device to reboot.
+6. Once the device has booted, open the new checkra1n app on the device.
+7. Install Cydia from the checkra1n mobile app
+8. Verify that Cydia has installed by opening Cydia from the home screen
+9. TA-DA! you are now officially the owner of a device jailbroken using checkra1n!
+
+**_Note: you will have to redo all of these steps every time your device reboots in order to keep your jailbreak applied!_**
+
+Skip to the next section for info about what to do next!
+
+### Section VI-b: Jailbreaking on unc0ver
+
+To apply the unc0ver jailbreak:
+
+1. Make sure your device is unplugged from the computer
+2. Open unc0ver
+3. Press Jailbreak at the bottom
+4. It will give a message saying that the system snapshot has been renamed. Allow the device to reboot.
+5. Once the device has rebooted, open the unc0ver app
+6. Press the Jailbreak button at the bottom again
+7. Wait for the jailbreak to apply. This may take up to a minute in some cases
+8. Allow the device to respring
+9. Open Cydia to verify that the jailbreak was complete
+10. TA-DA! You are now the proud owner of a device jailbroken using unc0ver!
+
+**_Note: You will have to open the unc0ver app and re-jailbreak every time the device restarts_**
+
+Read on to find out what to do next!
+
+## Section VII: Post-install notes
+
+Congratulations! You jailbroke your first device! That wasnt so bad, was it?
+
+Just a few things to keep in mind:
+
+* Make sure that you DO NOT under ANY CIRCUMSTANCES update your iOS version without properly removing your jailbreak first. Instructions for how to do this can be found below.
+
+* Unc0ver users: remember to refresh your apps once every 7 days!
+
+* Remember to re-apply your jailbreak after every reboot!
+
+## Section VIII: What to do next
+
+### Section VIII-a: Repos, Tweaks, and Themes, oh my!
+
+Whats the point of jailbreaking your device if you don't install anything right?
+
+Here are my reccomended tweaks to get started. You don't need to install any of the ones you don't want. They're just good ones to start with.
+
+Tweak Name|Developer|Repo|Price
+---|---|---|---
+SnowBoard|SparkDev|sparkdev.me|Free
+HomePlus Beta|Kritanta|repo.openpack.io|Free
+Xen HTML|Matchstic|repo.packix.com|Free
+XenInfo|JunesiPhone|junesiphone.com/supersecret|Free
+Complications|Ben Giannis|repo.packix.com|$1.99
+Axon|Nepeta & Baw Appie|repo.rpgfarm.com|Free
+Jellyfish|Justin Proulx & Ayden Panhuyzen|repo.dynastic.co|$1.99
+Prysm|LaughingQuoll|repo.packix.com|$3.49
+Ultrasound|Ayden Panhuyzen|repo.dynastic.co|$1.99
+
+**_Note that tweak compatibility varies from device to device. Especially with iPads._**
+
+## Section IX: Removing your jailbreak safely
+
+Leaving so soon? Sad day. Anywho, follow these steps to safely remove your jailbreak from your device.
+
+### Section IX-a: Removing the checkra1n jailbreak
+
+To remove the checkra1n jailbreak:
+
+1. Open the checkra1n app on your device
+2. Press the restore system button
+3. Wait for the process to complete
+4. Reboot your device
+
+### Section IX-b: Removing the unc0ver jailbreak
+
+To remove the unc0ver jailbreak:
+
+1. Open the unc0ver app
+2. Go to the settings menu
+3. Flip the switch that says "Restore RootFS" on
+4. Return to the main screen
+5. Press the "Restore RootFS" button at the bottom
+6. A notice will pop up saying that the filesystem will be restored. Allow this and continue
+7. Once the process is complete, you will be asked to reboot your
+
+## Section X: What to do if your phone needs repair
+
+
