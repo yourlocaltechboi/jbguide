@@ -1,10 +1,10 @@
 # Beginner's Guide to iOS Jailbreaking
 
-So you’ve asked for my help in jailbreaking your iPhone, iPad, or iPod touch? 
+So you’ve asked for my help in jailbreaking your iPhone, iPad, or iPod touch? Do you just want to learn about it?
 
 Wonderful choice!
 
-This document is a guide for how to do it both safely, and without error.
+This document is a guide for how to do it both safely, and without error. If you just want to learn, feel free to read the first two sections and their subsections :) !
 
 **A few notes before we begin:**
 * **_If this is your first time jailbreaking, make sure to follow these instructions precisely to prevent unforeseen issues that could arise_**
@@ -64,5 +64,5 @@ checkra1n|unc0ver
 ---|---
 Semi-tethered|Semi-untethered
 Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5 (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
-Supports iOS/iPadOS Versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
+Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
 Actively Developed|Actively Developed
