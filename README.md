@@ -87,14 +87,14 @@ For checkra1n users, go to https://checkra.in, and download the latest version o
 **_Note: Linux users, skip this part. I will explain how to run checkra1n on Ubuntu based distros in the next section_**
 
 For unc0ver users:
-1. If you dont have it installed already, install iTunes from https://www.apple.com/itunes
+* If you dont have it installed already, install iTunes from https://www.apple.com/itunes
 
 **_Note: Windows users: make sure you download the Win32 version, not the Microsoft Store version_**
 
 **_Note: macOS Catalina users: iTunes was removed from macOS Catalina. Just skip this step._**
 
-2. Go to https://altstore.io to download and install AltServer on your machine.
-3. Go to https://unc0ver.dev and download the latest version of unc0ver. For easy access, save it to your Downloads folder.
+* Go to https://altstore.io to download and install AltServer on your machine.
+* Go to https://unc0ver.dev and download the latest version of unc0ver. For easy access, save it to your Downloads folder.
 
 ## Section V: Installing your jailbreak tool
 
