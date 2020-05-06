@@ -67,7 +67,7 @@ For the purposes of this guide, I will assume you are on iOS 13. Read through th
 checkra1n|unc0ver
 ---|---
 Semi-tethered|Semi-untethered
-Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5 (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
+Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5s (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
 Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
 Supports macOS and Linux|Requires AltStore, Which supports Windows 10 and macOS 10.14.4+
 Actively Developed|Actively Developed
@@ -249,7 +249,7 @@ Let's figure out our options.
 
 If this describes your device|try this
 ---|---
-My touchscreen still works, and I can open by jailbreak app|Open the jailbreak app and remove your jailbreak using the steps above before sending your device in for repair
+My touchscreen still works, and I can open my jailbreak app from the home screen|Open the jailbreak app and remove your jailbreak using the steps above before sending your device in for repair
 My touchscreen does NOT work, and/or I cannot open my jailbreak app|You will have to either reset the device via DFU mode in iTunes, or send in the device as-is and risk either a refusal of service or having your device returned wiped and updated to the latest version of iOS (potentially unjailbreakable).
 
 **_Note to users under warranty: If you send in your device as-is, and Apple or your Repair Specialist discovers that your device is jailbroken, they might repair it, but you might have to pay out-of-warranty fees, as a jailbreak voids your warranty_**
