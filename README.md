@@ -68,9 +68,58 @@ checkra1n|unc0ver
 Semi-tethered|Semi-untethered
 Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5 (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
 Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
+Supports macOS and Linux|Requires AltStore, Which supports Windows 10 and macOS 10.14.4+
 Actively Developed|Actively Developed
 
 Decided which tool you want to use? Great.
 
 ## Section IV: Downloading your jailbreak tool.
 
+Before you get started, you will need the following:
+
+* A computer with the required OS installed (see above), and an account with administrator privileges
+* Your iOS/iPadOS device (for best results, have the battery above 50%)
+* A charging cable that supports data transfer
+* A network connection
+
+For checkra1n users, go to https://checkra.in, and download the latest version of checkra1n
+
+**_Note: Linux users, skip this part. I will explain how to run checkra1n on Ubuntu based distros in the next section_**
+
+For unc0ver users:
+1. If you dont have it installed already, install iTunes from https://www.apple.com/itunes
+
+**_Note: Windows users: make sure you download the Win32 version, not the Microsoft Store version_**
+
+**_Note: macOS Catalina users: iTunes was removed from macOS Catalina. Just skip this step._**
+
+2. Go to https://altstore.io to download and install AltServer on your machine.
+3. Go to https://unc0ver.dev and download the latest version of unc0ver. For easy access, save it to your Downloads folder.
+
+## Section V: Installing your jailbreak tool
+
+Congrats if you've made it this far! Now things are gonna get real, so make sure to pay attention, and read all of the side notes!
+
+### Section V-a: Installing checkra1n
+
+For simplicity, I will split this up into macOS and Linux parts. If you are using unc0ver, feel free to skip this part!
+
+#### Section V-a1: Installing checkra1n on macOS
+
+On macOS, all you have to do is open the DMG file you got from the checkra1n website, and drag it into your Applications folder. Easy!
+
+#### Section V-a2: Installing checkra1n on Linux
+
+Linux users, due to the vastness of possibilities for the linux community, I cannot cover all of you in this document. I will only be writing out the steps for Debian based distros.
+
+On Ubuntu, open the terminal.
+
+First, run `sudo apt get update && sudo apt-get upgrade` to make sure tat your packages are up to date.
+
+Next, run `echo "deb https://assets.checkra.in/debian/" | sudo tee -a` to add the checkra1n APT repo
+
+Then, add the public key: `sudo apt-key adv --fetch-keys https://assets.checkra.in/debian/ar`
+
+Then, run `sudo apt-get update` to refresh your package lists
+
+and Finally, run `sudo apt-get install checkra1n` to install the checkra1n application.
