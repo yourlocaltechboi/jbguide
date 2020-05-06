@@ -1,4 +1,5 @@
 # Beginner's Guide to iOS Jailbreaking
+> A guide by Anden Wieseler
 
 So you’ve asked for my help in jailbreaking your iPhone, iPad, or iPod touch? Do you just want to learn about it?
 
@@ -42,11 +43,11 @@ As of right now, yes. Jailbreaking was deemed legal in a DMCA exemption in 2009 
 
 When you jailbreak your device, a new application is installed; a package manager. On most modern jailbreaks, this package manager is called Cydia (which literally means "worm in the apple"). Think of this like your jailbreak app store. There's something different about this app store though. You can get your apps (Tweaks in this case) from many different sources. These are called repositories (or repos for short). Inside these repositories are tweaks. Tweaks are 3rd party binaries made by developers that change parts of the system to do different things. Some are free, and some you have to pay for, just like any other software.
 
-## Section II: Picking your jailbreak method
+## Section II: Types of jailbreaks
 
 So you know what a jailbreak is, but now you're probably wondering, "how do you do it?"
 
-Well, there are different types of jailbreaks:
+Well, there are different types of jailbreaks. Different types of jailbreaks are applied in different ways. See the table below.
 
 Type of Jailbreak|What it means
 ---|---
@@ -56,7 +57,9 @@ Tethered|This type of jailbreak involves installing custom firmware to the devic
 Semi-tethered|This type of jailbreak requires a computer to boot the device jailbroken, but the device will run unjailbroken just fine without a computer. **There are currently semi-tethered jailbreaks availible**
 Semi-untethered|**This is the most common jailbreak type nowadays, and there are semi-untethered jailbreaks availible.** This type of jailbreak involves sideloading an app to the device and applying the jailbreak from the app. The jailbreak is unapplied if the device is rebooted, in which case the user can rejailbreak from the app.
 
-For the purposes of this guide, I will assume you are on iOS 13. Read through the options below, and pick which one you want to use.
+## Section III: Picking your jailbreak tool
+
+For the purposes of this guide, I will assume you are on iOS 13. Read through the jailbreak tools below, and pick which one you want to use.
 
 **_Note: Not all devices are currently jailbreakable. If your device is not jailbreakable, make sure to turn off Automatic Updates in settings and DO NOT update your iOS version. Wait for a jailbreak to be released for the version you are already on. That's the jailbreak rule of thumb._**
 
@@ -66,3 +69,8 @@ Semi-tethered|Semi-untethered
 Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5 (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
 Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
 Actively Developed|Actively Developed
+
+Decided which tool you want to use? Great.
+
+## Section IV: Downloading your jailbreak tool.
+
