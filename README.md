@@ -220,23 +220,35 @@ Leaving so soon? Sad day. Anywho, follow these steps to safely remove your jailb
 
 To remove the checkra1n jailbreak:
 
-1. Open the checkra1n app on your device
-2. Press the restore system button
-3. Wait for the process to complete
-4. Reboot your device
+1. Make sure you are jailbroken
+2. Open the checkra1n app on your device
+3. Press the restore system button
+4. Wait for the process to complete
+5. Reboot your device
 
 ### Section IX-b: Removing the unc0ver jailbreak
 
 To remove the unc0ver jailbreak:
 
-1. Open the unc0ver app
-2. Go to the settings menu
-3. Flip the switch that says "Restore RootFS" on
-4. Return to the main screen
-5. Press the "Restore RootFS" button at the bottom
-6. A notice will pop up saying that the filesystem will be restored. Allow this and continue
-7. Once the process is complete, you will be asked to reboot your
+1. Reboot into a non-jailbroken state
+2. Open the unc0ver app
+3. Go to the settings menu
+4. Flip the switch that says "Restore RootFS" on
+5. Return to the main screen
+6. Press the "Restore RootFS" button at the bottom
+7. A notice will pop up saying that the filesystem will be restored. Allow this and continue
+8. Once the process is complete, you will be asked to reboot your device. Allow this as well.
+9. Once the device is rebooted, delete the unc0ver and AltStore apps.
 
 ## Section X: What to do if your phone needs repair
+
+Whoops! You damaged your jailbroken device. Don't worry, we've been there.
+
+Let's figure out our options.
+
+If this describes your device|try this
+---|---
+My touchscreen still works, and I can open by jailbreak app|Open the jailbreak app and remove your jailbreak using the steps above before sending your device in for repair
+My touchscreen does NOT work, and/or I cannot open my jailbreak app|You will have to either reset the device via DFU mode in iTunes, or send in the device as-is and risk either a refusal of service or having your device returned wiped and updated to the latest version of iOS (potentially unjailbreakable).
 
 
