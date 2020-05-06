@@ -135,7 +135,7 @@ Unc0ver installation is similar for both macOS and Windows.
 6. Select the unc0ver application file
 7. Wait for unc0ver to install
 
-**_Note: You will have to refresh unc0ver once every 7 days to keep it running. You can do this by connecting your phone to your computer, starting AltServer, opening AltStore on the device, and pressing refresh on the "My Apps" page.
+**_Note: You will have to refresh unc0ver once every 7 days to keep it running. You can do this by connecting your phone to your computer, starting AltServer, opening AltStore on the device, and pressing refresh on the "My Apps" page._**
 
 ## Section VI: Jailbreaking for the first time :)
 
