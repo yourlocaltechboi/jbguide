@@ -85,7 +85,7 @@ Before you get started, you will need the following:
 
 For checkra1n users, go to https://checkra.in, and download the latest version of checkra1n
 
-**_Note: Linux users, skip this part. I will explain how to run checkra1n on Ubuntu based distros in the next section_**
+**_Note: Linux users, skip this part. I will explain how to run checkra1n on Debian based distros in the next section_**
 
 For unc0ver users:
 * If you dont have it installed already, install iTunes from https://www.apple.com/itunes
