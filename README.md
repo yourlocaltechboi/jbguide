@@ -116,9 +116,9 @@ On Ubuntu, open the terminal.
 
 First, run `sudo apt get update && sudo apt-get upgrade` to make sure tat your packages are up to date.
 
-Next, run `echo "deb https://assets.checkra.in/debian/" | sudo tee -a` to add the checkra1n APT repo
+Next, run `echo "deb https://assets.checkra.in/debian/" | sudo tee -a /etc/apt/sources.list` to add the checkra1n APT repo
 
-Then, add the public key: `sudo apt-key adv --fetch-keys https://assets.checkra.in/debian/ar`
+Then, add the public key: `sudo apt-key adv --fetch-keys https://assets.checkra.in/debian/archive.key`
 
 Then, run `sudo apt-get update` to refresh your package lists
 
