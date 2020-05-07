@@ -272,6 +272,6 @@ To learn more about using tweaks to customize the look of your device, check out
 
 If you found an error in this document, feel free to edit it and send in a PR on GitHub!
 
-Thanks one again!
+Thanks once again!
 
 Anden out.
