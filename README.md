@@ -67,7 +67,7 @@ For the purposes of this guide, I will assume you are on iOS 13. Read through th
 checkra1n|unc0ver
 ---|---
 Semi-tethered|Semi-untethered
-Supports the iPhone 5s (A5 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5s (A5 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
+Supports the iPhone 5s (A7 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5s (A7 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
 Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
 Supports macOS and Linux|Requires AltStore, Which supports Windows 10 and macOS 10.14.4+
 Actively Developed|Actively Developed
