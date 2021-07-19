@@ -13,6 +13,8 @@ This document is a guide for how to do it both safely, and without error. If you
 * **_I, Anden Wieseler, cannot be held liable for any issues that arise from jailbreaking any device from the use of this guide, any of the methods mentioned, or any of the software or hardware required. Your device is your responsibility. While I may provide some support, you jailbreak your phone at your own risk, and any fees or legal repurcussions are your responsibility as well._**
 * **_I cannot guarantee that all information contained in this document is without error. Should technical error arise from false information, I cannot and will not be held accountable. By continuing, you accept full responsibility for any errors that may arise. If you see an error in this document that you can fix, feel free to edit this document on GitHub and send in a PR!_**
 
+* **_This guide has not been updated in a while, however as of July of 2021, the steps required to jailbreak remain similar. Please substitute the jailbreak tools and tweaks mentioned in this guide with their modern counterparts. In terms of Jailbreaks, this is Taurine and unc0ver (semi-untethered), and checkra1n (semi-tehtered)._**
+
 If you agree to these terms, let's move forward! 
 
 
