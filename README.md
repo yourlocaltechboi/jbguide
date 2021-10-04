@@ -13,8 +13,6 @@ This document is a guide for how to do it both safely, and without error. If you
 * **_I, Anden Wieseler, cannot be held liable for any issues that arise from jailbreaking any device from the use of this guide, any of the methods mentioned, or any of the software or hardware required. Your device is your responsibility. While I may provide some support, you jailbreak your phone at your own risk, and any fees or legal repurcussions are your responsibility as well._**
 * **_I cannot guarantee that all information contained in this document is without error. Should technical error arise from false information, I cannot and will not be held accountable. By continuing, you accept full responsibility for any errors that may arise. If you see an error in this document that you can fix, feel free to edit this document on GitHub and send in a PR!_**
 
-* **_This guide has not been updated in a while, however as of July of 2021, the steps required to jailbreak remain similar. Please substitute the jailbreak tools and tweaks mentioned in this guide with their modern counterparts. In terms of Jailbreaks, this is Taurine and unc0ver (semi-untethered), and checkra1n (semi-tethered)._**
-
 If you agree to these terms, let's move forward! 
 
 
@@ -66,13 +64,13 @@ For the purposes of this guide, I will assume you are on iOS 13. Read through th
 
 **_Note: Not all devices are currently jailbreakable. If your device is not jailbreakable, make sure to turn off Automatic Updates in settings and DO NOT update your iOS version. Wait for a jailbreak to be released for the version you are already on. That's the jailbreak rule of thumb._**
 
-checkra1n|unc0ver
----|---
-Semi-tethered|Semi-untethered
-Supports the iPhone 5s (A7 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5s (A7 chip) up to the latest generation of iPhones (at the time of writing, this is the iPhone 11 series, A13 chip)
-Supports iOS/iPadOS versions 12.3 and up|Supports iOS/iPadOS versions 11.0-13.3 (excluding 12.3-12.3.2 and 12.4.2-12.4.5)
-Supports macOS and Linux|Requires AltStore, Which supports Windows 10 and macOS 10.14.4+
-Actively Developed|Actively Developed
+checkra1n|unc0ver|Taurine
+---|---|---
+Semi-tethered|Semi-untethered|Semi-untethered
+Supports the iPhone 5s (A7 chip) up to the iPhone X (A11 chip)|Supports the iPhone 5s (A7 chip) up to the iPhone 12 series (A13 Bionic chip)|Same as unc0ver
+Supports iOS/iPadOS versions 12.3 - 14.8|Supports iOS/iPadOS versions 11.0-14.3|Same as unc0ver
+Supports macOS and Linux|Requires AltStore, Which supports Windows 10 and macOS 10.14.4+|Same as unc0ver
+Actively Developed, but semi-dormant|Actively Developed, but not very active socially, and developed behind closed doors|Actively Developed
 
 Decided which tool you want to use? Great.
 
